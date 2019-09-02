@@ -1,8 +1,4 @@
-body{
-    background-image: url("foto.jpg");
-    background-size: /*contain*/ auto auto;
-    background-repeat: no-repeat;
-}
+
 ul {
     list-style-type: none;
     margin: 0;
@@ -26,7 +22,12 @@ ul {
   /* Change the link color to #111 (black) on hover */
   li a:hover {
     background-color: #111;
-  }
+  }body{
+    background-image: url("foto.jpg");
+    background-size: /*contain*/ auto auto;
+    background-repeat: no-repeat;
+}
+
 
 .center{
     display: block;
