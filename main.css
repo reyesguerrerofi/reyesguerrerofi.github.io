@@ -1,7 +1,6 @@
 
 body{
-    margin: 0%;
-    background-image: url("foto.jpg");
+    background-image: url("fotogra.jpg");
     background-size: /*contain*/ auto auto;
     background-repeat: no-repeat;
 }
