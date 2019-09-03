@@ -1,13 +1,16 @@
 
 body{
     background-image: url("fotogra.jpg");
-    background-size: /*contain*/ auto auto;
+    background-size: auto auto;
     background-repeat: no-repeat;
 }
-/* Add a black background color to the top navigation */
+
 .topnav {
     background-color: #333;
     overflow: hidden;
+    position: fixed; 
+    top: 0; 
+    width: 100%; 
   }
   
   .topnav a {
