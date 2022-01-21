@@ -19,7 +19,7 @@ a:focus,
 a:hover,
 a:active {
     text-decoration: none;
-    color: #2623d0;
+    color: gray;
 }
 
 
@@ -107,8 +107,6 @@ background-image: linear-gradient(134deg, #0C0091 0%, #00A87E 100%);*/
     padding: 10px 10px 70px 10px;
     border: 1px solid #bfbfbf;
     box-shadow: 10px 10px 30px rgba(0,0,0,0.8);
-   
-
 }
 .yeo-header .navbar {
     max-width: 1280px;
@@ -165,7 +163,7 @@ background-image: linear-gradient(134deg, #0C0091 0%, #00A87E 100%);*/
 
 .yeo-price {
     padding: 0 0 4rem 0;
-    background: #0a007e;
+    background: black;
 }
 
 .yeo-price .panel {
@@ -287,7 +285,7 @@ background-image: linear-gradient(134deg, #0C0091 0%, #00A87E 100%);*/
 
 .yeo-work {
     padding: 4rem 0 1rem 0;
-    background: #0a007e;
+    background: black;
     color: #fff;
     background-size: cover;
 }
@@ -331,7 +329,7 @@ background-image: linear-gradient(134deg, #0C0091 0%, #00A87E 100%);*/
 
 
 .yeo-footer {
-    background: #0a007e;
+    background: black;
     color: #fff;
     padding: 3rem 0;
 }
@@ -459,7 +457,7 @@ background-image: linear-gradient(134deg, #0C0091 0%, #00A87E 100%);*/
 
     .yeo-price .btn-price {
         padding: .6rem .5rem;
-        background: #382CBE;
+        background: gray;
         color: #fff;
         height: auto;
         width: 90%;
